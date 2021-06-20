@@ -30,4 +30,4 @@ For webdriver.Chrome(executable_path=...) you will need to write the destination
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-StarScraping needs the output csv of Web-Scrap
+StarScraping needs the output csv of Web Scraping.py
