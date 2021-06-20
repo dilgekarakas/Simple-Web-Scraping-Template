@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 20 09:10:26 2021
-
-@author: dilge
-"""
-
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 20 08:56:52 2021
-
-@author: dilge
-"""
 
 from selenium import webdriver #For webscraping 
 import time #For waiting 
