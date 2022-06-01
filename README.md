@@ -1,5 +1,9 @@
 # Web-Scrap
 
+A simple script that scraps the https://www.trustradius.com/machine-learning
+
+My intention was to crawl name, number of reviews, stars and urls of logos of each product categorized under machine learning solutions on trustradius.com. The url I have worked on is: https://www.trustradius.com/machine-learning. Once I landed on the url you will see a list of products by scrolling a little bit down. My task was to collect relevant information about each product and put them in an output file in the csv format. 
+
 ## For Anaconda Users
 
 If you need to install Selenium with Pip, use this in your command line.
