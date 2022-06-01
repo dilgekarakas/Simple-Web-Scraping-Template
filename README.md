@@ -27,11 +27,3 @@ pip install Selenium
 - Go back to Anaconda Prompt and type python.
 
 - Import Selenium Webdriver
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-For webdriver.Chrome(executable_path=...) you will need to write the destination of Google Chrome Driver (name of the file is chromedriver.exe for Windows Users).
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-StarScraping needs the output csv of Web Scraping.py
